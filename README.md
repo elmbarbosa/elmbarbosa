@@ -28,7 +28,7 @@ Este é o meu GitHub! 🚀
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elmbarbosa&show_icons=true&theme=dark)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elmbarbosa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elmbarbosa&layout=compact&theme=dark)](https://github.com/elmbarbosa/github-readme-stats)
  
 ## 📫 Onde me encontrar
  
